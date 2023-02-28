@@ -1,0 +1,20 @@
+.love-div{
+    height: 900px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    font-size: 60px;
+    color: red;
+}
+.text-div{
+    display: flex;
+    justify-content: center;
+    width: full;
+}
+.img image{
+    height: 50px;
+    width: 50px;
+}
